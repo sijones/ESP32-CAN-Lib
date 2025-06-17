@@ -1,8 +1,8 @@
-# Library for the ESP32 CAN Bus (ESP32-CAN)
+# Library for the ESP32 CAN Bus Controller (ESP32-CAN)
 
 ## Features
 
-* Support the CAN Bus from the ESP32 (SJA1000)
+* Support the CAN Bus from the ESP32 (SJA1000) (Required to actually be usable)
 * CAN Messages send and receive 
 * Various Bus speeds
 * Standard and Extended Frames
