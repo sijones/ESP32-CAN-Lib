@@ -2,7 +2,7 @@
 
 ## Features
 
-* Support the CAN Bus from the ESP32 (SJA1000) (Required to actually be usable)
+* Support the CAN Bus from the ESP32 (SJA1000) (Required to actually be usable) or use the Lilygo CAN485 board
 * CAN Messages send and receive 
 * Various Bus speeds
 * Standard and Extended Frames
